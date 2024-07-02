@@ -3,3 +3,5 @@ Our Solution
 ➢ Overview - Utilizing ML to analyze 1.6 million tweets, providing real-time sentiment analysis to identify positive, negative, and neutral sentiments.
 ➢ Technology Stack - Leveraging NLTK for NLP tasks, VADER lexicon for sentiment scoring, and Google Cloud Platform for scalable, secure data handling.
 ➢ Features - Real-time insights, high accuracy models, and easy API integration
+
+Watch Presentation: https://drive.google.com/file/d/188p-awNnYkxOPSzJOB1IkAh6wew9Ei5Y/view
